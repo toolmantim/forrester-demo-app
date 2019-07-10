@@ -1,5 +1,5 @@
 steps:
-  - label: ":docker:"
+  - label: ":node: Tests"
     command: npm test
     plugins:
       - docker#v3.3.0:
