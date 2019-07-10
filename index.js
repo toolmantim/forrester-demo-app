@@ -1,5 +1,5 @@
 function myFunc() {
-  return 42
+  return 41
 }
 
 module.exports = {
