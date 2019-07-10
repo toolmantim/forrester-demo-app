@@ -1,1 +1,3 @@
-# forrester-demo-app
+# Forrester Demo App
+
+An example Node.js application
