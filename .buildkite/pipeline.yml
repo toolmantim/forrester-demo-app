@@ -1,6 +1,6 @@
 steps:
   - label: ":node: Tests"
-    command: npm test
+    command: "npm test"
     plugins:
       - docker#v3.3.0:
-          image: node
+          image: "node:alpine"
